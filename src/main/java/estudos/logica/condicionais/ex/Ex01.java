@@ -1,4 +1,4 @@
-package estudos.logica.condicionais.ex01;
+package estudos.logica.condicionais.ex;
 import java.util.Scanner;
 /**
  * Exercício 1 — Positivo, negativo ou zero

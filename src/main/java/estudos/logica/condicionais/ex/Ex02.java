@@ -1,4 +1,4 @@
-package estudos.logica.condicionais.ex01;
+package estudos.logica.condicionais.ex;
 import java.util.Scanner;
 /*Maior de três números
 Peça ao usuário três números inteiros.
